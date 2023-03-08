@@ -1,5 +1,5 @@
 ### Bem vindo(a) ao meu perfil! 👋😁
-### Me chamo Daniel, tenho 25 anos e estou ingressando no mundo dos dev... Desde sempre gostei de tecnologias... Jogos, Video-Games, PC etc. 
+### Me chamo Daniel, estou ingressando no mundo dos dev... Desde sempre gostei de tecnologias... Jogos, Video-Games, PC etc. 
 ### Mas recentemente conheci o desenvolvimento WEB no qual tomei gosto pela coisa e decidi firmemente em prosseguir com esse estilo de vida e de trabalho! 
 
  <div>
