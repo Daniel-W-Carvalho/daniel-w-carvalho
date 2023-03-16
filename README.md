@@ -24,3 +24,4 @@
   ![Snake animation](https://github.com/Daniel-W-Carvalho/Daniel-W-Carvalho/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
