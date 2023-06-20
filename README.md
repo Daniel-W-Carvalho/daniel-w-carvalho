@@ -1,6 +1,6 @@
 ### Bem vindo(a) ao meu perfil! 👋😁
-### Me chamo Daniel, estou ingressando no mundo dos dev... Desde sempre gostei de tecnologias... Jogos, Video-Games, PC etc. 
-### Mas recentemente conheci o desenvolvimento WEB no qual tomei gosto pela coisa e decidi firmemente em prosseguir com esse estilo de vida e de trabalho! 
+### Me chamo Daniel e no momento estudo desenvolvimento WEB, aprimorando sempre as habilidades e em constante aprendizado.
+### Neste perfil salvo meus estudos e projetos 
 
  <div>
    <a href="https://github.com/Daniel-W-Carvalho">
