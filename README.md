@@ -1,5 +1,5 @@
 ### Bem vindo(a) ao meu perfil! 👋😁
-### Me chamo Daniel e no momento estudo desenvolvimento WEB, aprimorando sempre as habilidades e em constante aprendizado.
+### Me chamo Daniel e no momento estudo desenvolvimento WEB (FrontEnd), aprimorando sempre as habilidades e em constante aprendizado.
 ### Neste perfil salvo meus estudos e projetos 
 
  <div>
