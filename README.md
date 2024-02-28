@@ -43,7 +43,7 @@
 <p>
  <img align="right" width="350" src="./e1f3413bf5036045713341394f617225.gif" alt="Coding gif" />
   
- ✌️ &emsp; iniciando neste universo vasto da tecnologia, optei por desenvolvimento Web (Front End). <br> No momento tenho práticas em HTML, CSS, JS, REACT e TypeScript mas buscando sempre novas ferramentas e tecnicas. <br> Neste perfil commito todas as minhas aulas e projetos pessoais. Espero que gostem!<br/><br/>
+ ✌️ Iniciando neste universo vasto da tecnologia, optei por desenvolvimento Web (Front End). <br> No momento tenho práticas em HTML, CSS, JS, REACT e TypeScript mas buscando sempre novas ferramentas e tecnicas. <br> Neste perfil commito todas as minhas aulas e projetos pessoais. Espero que gostem!<br/><br/>
 </p>
 <br/>
 <br/>
